@@ -1,0 +1,22 @@
+{
+  "name": "stock-tracker-fe",
+  "version": "1.0.0",
+  "description": "Frontend for stock tracking",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisar/stock-tracker-fe.git"
+  },
+  "keywords": [
+    "Frontend"
+  ],
+  "author": "prisar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prisar/stock-tracker-fe/issues"
+  },
+  "homepage": "https://github.com/prisar/stock-tracker-fe#readme"
+}
